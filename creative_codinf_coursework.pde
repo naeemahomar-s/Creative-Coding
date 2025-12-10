@@ -27,7 +27,7 @@ void setup() {
 
   // labels
   fill(0);
-  text("how many times i saw political news on social media (Oct 15 to Dec 1)", 200, 30);
+  text("how many times i saw political news on social media (Oct 12th)", 200, 30);
   text("days", 360, 380);
   text("number of times seen", 5, 200);
 
@@ -62,3 +62,4 @@ void setup() {
 void draw() {
   // nothing happening here
 }
+
