@@ -1,7 +1,7 @@
 # Creative-Coding
 This project is about political news on social media.
 I counted how many times I saw politics each day.
-I tracked this from October 15 to December 1.
+I tracked this from October 12th
 
 The data came from apps I use every day.
 These include Instagram, TikTok, Twitter/X, Snapchat, and YouTube.
